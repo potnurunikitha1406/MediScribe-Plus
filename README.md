@@ -3,9 +3,9 @@
 MediScribe+ is an AI-powered clinical documentation assistant that captures live doctor-patient consultations via continuous microphone streaming, extracts structured clinical insights using Gemini AI, and logs patient records into a searchable Excel Clinical Ledger.
 
 ## 📸 Application Preview
-![Live Consultation](image1.png)
-![Clinical Insights](image2.png)
-![Patient Records Ledger](image3.png)
+![Live Consultation](demo_img1.png)
+![Clinical Insights](demo_img2.png)
+![Patient Records Ledger](demo_img3.png)
 
 ## 🚀 Key Features
 * **Continuous Live Voice Capture:** Start/Stop background microphone recording captures multi-sentence consultations smoothly across natural pauses.
